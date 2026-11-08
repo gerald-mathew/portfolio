@@ -3,6 +3,10 @@
     "public": ".",
     "ignore": [
       "firebase.json",
+      "netlify.toml",
+      "README.md",
+      "SECURITY.md",
+      "LICENSE",
       "**/.*",
       "**/node_modules/**"
     ]
